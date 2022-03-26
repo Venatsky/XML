@@ -1,1 +1,7 @@
-
+<Bug_report>
+  <Summary>No_job_offer</Summary>
+  <Project>HH.ru</Project>
+  <Priority>High</Priority>
+  <Status>Open</Status>
+  <Diskription>Chrome V 99.0.4844.82/Expected_Result:Apply for job - invitation for an interview/result - no interview</Diskription>
+</Bug_report>
